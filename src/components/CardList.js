@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from './Card';
 
-const CardList = ({robots}) => {
+const CardList = ({robots}) => {    
     return (
         <div>   
         {
@@ -20,4 +20,3 @@ const CardList = ({robots}) => {
     )};
 
 export default CardList;
-// Next video : 208. Building A React App 3
